@@ -6,6 +6,12 @@ Most neuroscience experiments utilize tightly controlled stimulus in order to pr
 
 All these issues have prompted the research industry to shift towards the use of naturalistic models and stimulus. Originally, naturalistic models were introduced to validate results derived from pre-existing tightly controlled experiments. However, they are now beginning to dominate tightly controlled experiments in terms of applicability to the real world. This is because real-world ecological variables are multidimensional, nonlinear, and different aspects can interact in multiple ways. 
 
+
+
+
 ## using naturalistic stimulus in the Lin Brain lab
 
+
 ## current research and future directions of the Lin Brain lab
+
+
